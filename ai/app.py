@@ -3,10 +3,10 @@ from transformers import AutoTokenizer
 from flask import Flask, request
 import json
 #prompt = "What is the school the University of Nebraska Lincoln?"
-model_id = "OpenVINO/dolly-v2-7b-int8-ov"
+model_id = "OpenVINO/Phi-3-mini-4k-instruct-int4-ov"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 #inputs = tokenizer(prompt, return_tensors="pt")
-model = OVModelForCausalLM.from_pretrained("OpenVINO/dolly-v2-7b-int8-ov")
+model = OVModelForCausalLM.from_pretrained("OpenVINO/Phi-3-mini-4k-instruct-int4-ov")
 #model.to("GPU")
 #outputs = model.generate(**inputs, max_new_tokens=50)
 
