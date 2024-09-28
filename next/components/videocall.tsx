@@ -9,6 +9,8 @@ import ZoomVideo, {
 import { CameraButton, MicButton } from "./mute-buttons";
 import { PhoneOff } from "lucide-react";
 import { Button } from "./ui/button";
+import clsx from "clsx";
+import Script from "next/script";
 
 const Videocall = (props: { slug: string; JWT: string }) => {
     const session = props.slug;
@@ -75,45 +77,48 @@ const Videocall = (props: { slug: string; JWT: string }) => {
     };
 
     return (
-        <div className="flex h-full w-full flex-1 flex-col">
-            <h1 className="text-center text-3xl font-bold mb-4 mt-0">
-                Session: {session}
-            </h1>
-            <div
-                className="flex w-full flex-1"
-                style={inSession ? {} : { display: "none" }}
-            >
-                {/* @ts-expect-error html component */}
-                <video-player-container ref={videoContainerRef} style={videoPlayerStyle} />
-            </div>
-            {!inSession ? (
-                <div className="mx-auto flex w-64 flex-col self-center">
-                    <div className="w-4" />
-                    <Button className="flex flex-1" onClick={joinSession} title="join session">
-                        Join
-                    </Button>
+        <main className={clsx("bg-white rounded-lg shadow-lg flex flex-col items-center justify-between p-12", {
+            'w-[60%] h-70vh]': inSession,
+            'w-[20%] h-30vh]': !inSession
+        })}>
+            <div className="flex h-full w-full flex-1 flex-col">
+                <div
+                    className="flex w-full flex-1"
+                    style={inSession ? {} : { display: "none" }}
+                >
+                    {/* @ts-expect-error html component */}
+                    <video-player-container ref={videoContainerRef} style={videoPlayerStyle} />
                 </div>
-            ) : (
-                <div className="flex w-full flex-col justify-around self-center">
-                    <div className="mt-4 flex w-[30rem] flex-1 justify-around self-center rounded-md bg-white p-4">
-                        <CameraButton
-                            client={client}
-                            isVideoMuted={isVideoMuted}
-                            setIsVideoMuted={setIsVideoMuted}
-                            renderVideo={renderVideo}
-                        />
-                        <MicButton
-                            isAudioMuted={isAudioMuted}
-                            client={client}
-                            setIsAudioMuted={setIsAudioMuted}
-                        />
-                        <Button onClick={leaveSession} title="leave session">
-                            <PhoneOff />
+                {!inSession ? (
+                    <div className="mx-auto flex w-64 flex-col self-center">
+                        <div className="w-4" />
+                        <Button className="flex flex-1 text-2xl" onClick={joinSession} title="join session">
+                            Join
                         </Button>
                     </div>
-                </div>
-            )}
-        </div>
+                ) : (
+                    <div className="flex w-full flex-col justify-around self-center">
+                        <div className="mt-4 flex w-[30rem] flex-1 justify-around self-center rounded-md bg-white p-4">
+                            <CameraButton
+                                client={client}
+                                isVideoMuted={isVideoMuted}
+                                setIsVideoMuted={setIsVideoMuted}
+                                renderVideo={renderVideo}
+                            />
+                            <MicButton
+                                isAudioMuted={isAudioMuted}
+                                client={client}
+                                setIsAudioMuted={setIsAudioMuted}
+                            />
+                            <Button onClick={leaveSession} title="leave session">
+                                <PhoneOff />
+                            </Button>
+                        </div>
+                    </div>
+                )}
+            </div>
+            <Script src="/coi-serviceworker.js" strategy="beforeInteractive" />
+        </main>
     );
 };
 
