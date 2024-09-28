@@ -11,6 +11,8 @@
   "license": "GPL-3.0",
   "type": "module",
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "elevenlabs-js": "^1.2.6",
     "express": "^4.21.0"
   },
   "devDependencies": {

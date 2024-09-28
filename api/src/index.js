@@ -20,6 +20,12 @@ app.use(express.static('public'))
 // Flatten icons to /public for device support reasons
 app.use(express.static('public/icons'))
 
+// JSON support
+app.use(express.json())
+
+// Global info
+app.locals.systemPromptSetting = 'default'
+
 // Add endpoints
 import { router as apiRouter } from './routes/api.js'
 app.use('/api/v1', apiRouter)
@@ -28,3 +34,5 @@ app.use('/api/v1', apiRouter)
 app.listen(port, () => {
   console.info('Express server listening on http://127.0.0.1:' + port)
 })
+
+export { app }
