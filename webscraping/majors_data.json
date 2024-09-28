@@ -1,0 +1,2998 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Actuarial Science (CAS)",
+    "url": "/undergraduate/arts-sciences/actuarial-science/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_49",
+      "filter_51",
+      "filter_61",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "Anthropology",
+    "url": "/undergraduate/arts-sciences/anthropology/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_51",
+      "filter_54",
+      "filter_58",
+      "filter_59",
+      "filter_69",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "Biochemistry (CAS)",
+    "url": "/undergraduate/arts-sciences/biochemistry/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_28",
+      "filter_51",
+      "filter_53",
+      "filter_57",
+      "filter_59",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "4": {
+    "id": "4",
+    "name": "Biological Sciences",
+    "url": "/undergraduate/arts-sciences/biological-sciences/",
+    "filters": [
+      "filter_20",
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_57",
+      "filter_59",
+      "filter_61",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "5": {
+    "id": "5",
+    "name": "Chemistry",
+    "url": "/undergraduate/arts-sciences/chemistry/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_59",
+      "filter_63",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "7": {
+    "id": "7",
+    "name": "Classics & Religious Studies",
+    "url": "/undergraduate/arts-sciences/classics-religious-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64",
+      "filter_66",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "8": {
+    "id": "8",
+    "name": "Combined Degree Programs",
+    "url": "/undergraduate/arts-sciences/combined-degree-programs/",
+    "filters": [
+      "filter_28"
+    ]
+  },
+  "9": {
+    "id": "9",
+    "name": "Communication Studies",
+    "url": "/undergraduate/arts-sciences/communication-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "11": {
+    "id": "11",
+    "name": "Economics (CAS)",
+    "url": "/undergraduate/arts-sciences/economics/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_49",
+      "filter_54",
+      "filter_58",
+      "filter_61",
+      "filter_64",
+      "filter_67",
+      "filter_68"
+    ]
+  },
+  "12": {
+    "id": "12",
+    "name": "English",
+    "url": "/undergraduate/arts-sciences/english/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_52",
+      "filter_54",
+      "filter_56",
+      "filter_64",
+      "filter_66",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "14": {
+    "id": "14",
+    "name": "Ethnic Studies",
+    "url": "/undergraduate/arts-sciences/ethnic-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64",
+      "filter_66",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "15": {
+    "id": "15",
+    "name": "Film Studies",
+    "url": "/undergraduate/arts-sciences/film-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_62",
+      "filter_64",
+      "filter_66",
+      "filter_69"
+    ]
+  },
+  "16": {
+    "id": "16",
+    "name": "French (CAS)",
+    "url": "/undergraduate/arts-sciences/french/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_48",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_66",
+      "filter_71"
+    ]
+  },
+  "17": {
+    "id": "17",
+    "name": "Geography",
+    "url": "/undergraduate/arts-sciences/geography/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_56",
+      "filter_58",
+      "filter_63",
+      "filter_69",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "18": {
+    "id": "18",
+    "name": "Geology",
+    "url": "/undergraduate/arts-sciences/geology/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_61",
+      "filter_63",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "19": {
+    "id": "19",
+    "name": "German (CAS)",
+    "url": "/undergraduate/arts-sciences/german/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_48",
+      "filter_49",
+      "filter_50",
+      "filter_56",
+      "filter_58",
+      "filter_66",
+      "filter_71"
+    ]
+  },
+  "20": {
+    "id": "20",
+    "name": "Global Studies",
+    "url": "/undergraduate/arts-sciences/global-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_54",
+      "filter_56",
+      "filter_64",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "22": {
+    "id": "22",
+    "name": "History",
+    "url": "/undergraduate/arts-sciences/history/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "23": {
+    "id": "23",
+    "name": "Individualized Program of Studies",
+    "url": "/undergraduate/arts-sciences/individualized-program-of-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28"
+    ]
+  },
+  "25": {
+    "id": "25",
+    "name": "Mathematics",
+    "url": "/undergraduate/arts-sciences/mathematics/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_51",
+      "filter_53",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "27": {
+    "id": "27",
+    "name": "Meteorology-Climatology",
+    "url": "/undergraduate/arts-sciences/meteorology-climatology/",
+    "filters": [
+      "filter_19",
+      "filter_28",
+      "filter_53",
+      "filter_63",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "28": {
+    "id": "28",
+    "name": "Microbiology (CAS)",
+    "url": "/undergraduate/arts-sciences/microbiology/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_28",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "30": {
+    "id": "30",
+    "name": "Philosophy",
+    "url": "/undergraduate/arts-sciences/philosophy/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64",
+      "filter_66",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "31": {
+    "id": "31",
+    "name": "Physics",
+    "url": "/undergraduate/arts-sciences/physics/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_51",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "33": {
+    "id": "33",
+    "name": "Political Science",
+    "url": "/undergraduate/arts-sciences/political-science/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_54",
+      "filter_58",
+      "filter_62",
+      "filter_64",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "34": {
+    "id": "34",
+    "name": "Psychology",
+    "url": "/undergraduate/arts-sciences/psychology/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_59",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "37": {
+    "id": "37",
+    "name": "Sociology",
+    "url": "/undergraduate/arts-sciences/sociology/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_61",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "38": {
+    "id": "38",
+    "name": "Spanish (CAS)",
+    "url": "/undergraduate/arts-sciences/spanish/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_50",
+      "filter_53",
+      "filter_56",
+      "filter_62",
+      "filter_64",
+      "filter_66",
+      "filter_71"
+    ]
+  },
+  "39": {
+    "id": "39",
+    "name": "Women’s & Gender Studies",
+    "url": "/undergraduate/arts-sciences/womens-gender-studies/",
+    "filters": [
+      "filter_24",
+      "filter_28",
+      "filter_54",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_64",
+      "filter_66",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "41": {
+    "id": "41",
+    "name": "African Studies Minor",
+    "url": "/undergraduate/arts-sciences/african-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "42": {
+    "id": "42",
+    "name": "African-American Studies Minor",
+    "url": "/undergraduate/arts-sciences/african-american-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "44": {
+    "id": "44",
+    "name": "Archaeology Minor",
+    "url": "/undergraduate/arts-sciences/archaeology-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_48",
+      "filter_53",
+      "filter_56"
+    ]
+  },
+  "45": {
+    "id": "45",
+    "name": "Asian Studies Minor",
+    "url": "/undergraduate/arts-sciences/asian-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_48",
+      "filter_50",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "49": {
+    "id": "49",
+    "name": "Digital Humanities Minor",
+    "url": "/undergraduate/arts-sciences/digital-humanities-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_51",
+      "filter_52",
+      "filter_56",
+      "filter_60"
+    ]
+  },
+  "50": {
+    "id": "50",
+    "name": "Human Rights & Humanitarian Affairs Minor",
+    "url": "/undergraduate/arts-sciences/human-rights-humanitarian-affairs-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_53",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "51": {
+    "id": "51",
+    "name": "Humanities in Medicine Minor",
+    "url": "/undergraduate/arts-sciences/humanities-medicine-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58"
+    ]
+  },
+  "53": {
+    "id": "53",
+    "name": "Jewish Studies Minor",
+    "url": "/undergraduate/arts-sciences/jewish-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_54",
+      "filter_56"
+    ]
+  },
+  "54": {
+    "id": "54",
+    "name": "Lesbian, Gay, Bisexual, Transgender, Queer/Sexuality Studies Minor",
+    "url": "/undergraduate/arts-sciences/lesbian-gay-bisexual-transgender-queer-sexuality-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "55": {
+    "id": "55",
+    "name": "National Security Studies Minor",
+    "url": "/undergraduate/arts-sciences/national-security-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_56",
+      "filter_58",
+      "filter_61",
+      "filter_64"
+    ]
+  },
+  "59": {
+    "id": "59",
+    "name": "Agribusiness (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/agribusiness/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_56",
+      "filter_58",
+      "filter_61",
+      "filter_62",
+      "filter_67",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "62": {
+    "id": "62",
+    "name": "Animal Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/animal-science/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_68",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "64": {
+    "id": "64",
+    "name": "Applied Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/applied-science/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_59",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "65": {
+    "id": "65",
+    "name": "Biochemistry (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/biochemistry/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_51",
+      "filter_53",
+      "filter_57",
+      "filter_59",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "66": {
+    "id": "66",
+    "name": "Engler Agribusiness Entrepreneurship Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/engler-agribusiness-entrepreneurship/",
+    "filters": [
+      "filter_19",
+      "filter_25",
+      "filter_26",
+      "filter_49",
+      "filter_51",
+      "filter_52",
+      "filter_60"
+    ]
+  },
+  "69": {
+    "id": "69",
+    "name": "Fisheries & Wildlife",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/fisheries-wildlife/",
+    "filters": [
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_50",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "70": {
+    "id": "70",
+    "name": "Food Science & Technology",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/food-science-technology/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_57",
+      "filter_59",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "72": {
+    "id": "72",
+    "name": "Forensic Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/forensic-science/",
+    "filters": [
+      "filter_26",
+      "filter_50",
+      "filter_54",
+      "filter_59",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "73": {
+    "id": "73",
+    "name": "General (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/general/",
+    "filters": [
+      "filter_26"
+    ]
+  },
+  "78": {
+    "id": "78",
+    "name": "Insect Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/insect-science/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_53",
+      "filter_59",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "79": {
+    "id": "79",
+    "name": "Integrated Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/integrated-science/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_26",
+      "filter_53",
+      "filter_56",
+      "filter_59",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "81": {
+    "id": "81",
+    "name": "Microbiology (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/microbiology/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_26",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "82": {
+    "id": "82",
+    "name": "Natural Resource & Environmental Economics",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/natural-resource-environmental-economics/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_58",
+      "filter_61",
+      "filter_67",
+      "filter_68",
+      "filter_69"
+    ]
+  },
+  "83": {
+    "id": "83",
+    "name": "PGA Golf Management",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/pga-golf-management/",
+    "filters": [
+      "filter_26",
+      "filter_49",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_65",
+      "filter_68",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "84": {
+    "id": "84",
+    "name": "Plant Biology",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/plant-biology/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "85": {
+    "id": "85",
+    "name": "Pre-Veterinary Medicine",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/pre-veterinary-medicine/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_26",
+      "filter_57",
+      "filter_59",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "87": {
+    "id": "87",
+    "name": "Veterinary Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/veterinary-science/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_57",
+      "filter_59",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "88": {
+    "id": "88",
+    "name": "Veterinary Technology",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/veterinary-technology/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_26",
+      "filter_57",
+      "filter_59",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "90": {
+    "id": "90",
+    "name": "Agricultural Economics",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/economics/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_56",
+      "filter_58",
+      "filter_61",
+      "filter_64",
+      "filter_67",
+      "filter_68"
+    ]
+  },
+  "93": {
+    "id": "93",
+    "name": "Energy Science Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/energy-science-minor/",
+    "filters": [
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_56",
+      "filter_58"
+    ]
+  },
+  "94": {
+    "id": "94",
+    "name": "Food, Energy and Water in Society Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/food-energy-water-society-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_56",
+      "filter_59"
+    ]
+  },
+  "95": {
+    "id": "95",
+    "name": "International Agriculture & Natural Resources Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/international-agriculture-natural-resources-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_56",
+      "filter_59"
+    ]
+  },
+  "98": {
+    "id": "98",
+    "name": "Interior Design",
+    "url": "/undergraduate/architecture/interior-design/",
+    "filters": [
+      "filter_27",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_58",
+      "filter_60",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "99": {
+    "id": "99",
+    "name": "Landscape Architecture",
+    "url": "/undergraduate/architecture/landscape/",
+    "filters": [
+      "filter_24",
+      "filter_27",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "100": {
+    "id": "100",
+    "name": "Community & Regional Planning Minor",
+    "url": "/undergraduate/architecture/community-regional-planning-minor/",
+    "filters": [
+      "filter_25",
+      "filter_27",
+      "filter_51",
+      "filter_53",
+      "filter_54",
+      "filter_55",
+      "filter_58"
+    ]
+  },
+  "115": {
+    "id": "115",
+    "name": "Secondary Education: Biology",
+    "url": "/undergraduate/education-human-sciences/biology/",
+    "filters": [
+      "filter_20",
+      "filter_31",
+      "filter_53",
+      "filter_54",
+      "filter_59",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "116": {
+    "id": "116",
+    "name": "Secondary Education: Business, Marketing & Information Technology",
+    "url": "/undergraduate/education-human-sciences/business-marketing-information-technology/",
+    "filters": [
+      "filter_31",
+      "filter_49",
+      "filter_51",
+      "filter_54",
+      "filter_65",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "117": {
+    "id": "117",
+    "name": "Secondary Education: Chemistry",
+    "url": "/undergraduate/education-human-sciences/chemistry/",
+    "filters": [
+      "filter_31",
+      "filter_53",
+      "filter_54",
+      "filter_63",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "119": {
+    "id": "119",
+    "name": "CYAF: Early Childhood Education in a Mobile Society",
+    "url": "/undergraduate/education-human-sciences/early-childhood-education-mobile-society/",
+    "filters": [
+      "filter_31",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_65",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "120": {
+    "id": "120",
+    "name": "Secondary Education: Earth & Space Science",
+    "url": "/undergraduate/education-human-sciences/earth-space-science/",
+    "filters": [
+      "filter_31",
+      "filter_53",
+      "filter_54",
+      "filter_63",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "121": {
+    "id": "121",
+    "name": "Elementary Education & Special Education (K-6)",
+    "url": "/undergraduate/education-human-sciences/elementary-special/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "122": {
+    "id": "122",
+    "name": "Elementary Education (K-6) & Early Childhood Education (Age 3-Grade 3)",
+    "url": "/undergraduate/education-human-sciences/elementary-early-childhood/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "123": {
+    "id": "123",
+    "name": "Elementary Education (K-6)",
+    "url": "/undergraduate/education-human-sciences/elementary/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "124": {
+    "id": "124",
+    "name": "Secondary Education: English Language Arts",
+    "url": "/undergraduate/education-human-sciences/english-language-arts/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_71"
+    ]
+  },
+  "125": {
+    "id": "125",
+    "name": "CYAF: Family & Consumer Sciences Occupational (Grades 6-12)",
+    "url": "/undergraduate/education-human-sciences/family-consumer-science/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_52",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_68",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "126": {
+    "id": "126",
+    "name": "Secondary Education: French",
+    "url": "/undergraduate/education-human-sciences/french/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "127": {
+    "id": "127",
+    "name": "Secondary Education: German",
+    "url": "/undergraduate/education-human-sciences/german/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "128": {
+    "id": "128",
+    "name": "Hospitality, Restaurant & Tourism Management",
+    "url": "/undergraduate/education-human-sciences/hospitality-restaurant-tourism-management/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_31",
+      "filter_49",
+      "filter_52",
+      "filter_56",
+      "filter_58",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "129": {
+    "id": "129",
+    "name": "CYAF: Human Development and Family Science",
+    "url": "/undergraduate/education-human-sciences/human-development-family-science/",
+    "filters": [
+      "filter_31",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_64",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "130": {
+    "id": "130",
+    "name": "CYAF: Inclusive Early Childhood Education (Birth-Grade 3)",
+    "url": "/undergraduate/education-human-sciences/inclusive-early-childhood/",
+    "filters": [
+      "filter_31",
+      "filter_54",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "131": {
+    "id": "131",
+    "name": "Secondary Education: Latin",
+    "url": "/undergraduate/education-human-sciences/latin/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "132": {
+    "id": "132",
+    "name": "Secondary Education: Mathematics",
+    "url": "/undergraduate/education-human-sciences/mathematics/",
+    "filters": [
+      "filter_31",
+      "filter_51",
+      "filter_54",
+      "filter_61",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "133": {
+    "id": "133",
+    "name": "Nutrition & Health Sciences: Community Health and Wellness Option",
+    "url": "/undergraduate/education-human-sciences/nutrition-community-health-wellness-option/",
+    "filters": [
+      "filter_31",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "136": {
+    "id": "136",
+    "name": "Nutrition & Health Sciences: Nutrition Science Option",
+    "url": "/undergraduate/education-human-sciences/nutrition-science-option/",
+    "filters": [
+      "filter_19",
+      "filter_31",
+      "filter_57",
+      "filter_59",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "137": {
+    "id": "137",
+    "name": "Nutrition & Health Sciences: Nutrition, Exercise & Health Science Option",
+    "url": "/undergraduate/education-human-sciences/nutrition-exercise-health-science-option/",
+    "filters": [
+      "filter_31",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_59",
+      "filter_69",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "138": {
+    "id": "138",
+    "name": "Secondary Education: Physics",
+    "url": "/undergraduate/education-human-sciences/physics/",
+    "filters": [
+      "filter_31",
+      "filter_51",
+      "filter_54",
+      "filter_63",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "139": {
+    "id": "139",
+    "name": "Secondary Education: Russian",
+    "url": "/undergraduate/education-human-sciences/russian/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "140": {
+    "id": "140",
+    "name": "Secondary Education: Science",
+    "url": "/undergraduate/education-human-sciences/science/",
+    "filters": [
+      "filter_20",
+      "filter_31",
+      "filter_54",
+      "filter_59",
+      "filter_63",
+      "filter_65",
+      "filter_68",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "141": {
+    "id": "141",
+    "name": "Secondary Education: Secondary English",
+    "url": "/undergraduate/education-human-sciences/secondary-english/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "142": {
+    "id": "142",
+    "name": "Secondary Education: Social Studies",
+    "url": "/undergraduate/education-human-sciences/social-science/",
+    "filters": [
+      "filter_31",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64",
+      "filter_65",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "143": {
+    "id": "143",
+    "name": "Secondary Education: Spanish",
+    "url": "/undergraduate/education-human-sciences/spanish/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "146": {
+    "id": "146",
+    "name": "Textiles, Merchandising & Fashion Design: Communications",
+    "url": "/undergraduate/education-human-sciences/textiles-merchandising-fashion-design-communications/",
+    "filters": [
+      "filter_31",
+      "filter_49",
+      "filter_50",
+      "filter_52",
+      "filter_56",
+      "filter_62",
+      "filter_66",
+      "filter_68"
+    ]
+  },
+  "147": {
+    "id": "147",
+    "name": "Textiles, Merchandising & Fashion Design: Merchandising",
+    "url": "/undergraduate/education-human-sciences/textiles-merchandising-fashion-design-merchandising/",
+    "filters": [
+      "filter_24",
+      "filter_31",
+      "filter_49",
+      "filter_52",
+      "filter_53",
+      "filter_56",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "148": {
+    "id": "148",
+    "name": "Textiles, Merchandising & Fashion Design: Textile & Apparel Design",
+    "url": "/undergraduate/education-human-sciences/textiles-merchandising-fashion-apparel-design/",
+    "filters": [
+      "filter_24",
+      "filter_31",
+      "filter_49",
+      "filter_52",
+      "filter_53",
+      "filter_56",
+      "filter_62",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "149": {
+    "id": "149",
+    "name": "Textiles, Merchandising & Fashion Design: Textile Science",
+    "url": "/undergraduate/education-human-sciences/textiles-merchandising-fashion-design-science/",
+    "filters": [
+      "filter_20",
+      "filter_24",
+      "filter_31",
+      "filter_53",
+      "filter_56",
+      "filter_66",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "150": {
+    "id": "150",
+    "name": "International Studies Minor (CEHS)",
+    "url": "/undergraduate/education-human-sciences/cehs-international-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_50",
+      "filter_53",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_64",
+      "filter_65"
+    ]
+  },
+  "151": {
+    "id": "151",
+    "name": "Child, Youth & Family Studies Minor",
+    "url": "/undergraduate/education-human-sciences/child-youth-family-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_55",
+      "filter_57",
+      "filter_58"
+    ]
+  },
+  "152": {
+    "id": "152",
+    "name": "Coaching Minor",
+    "url": "/undergraduate/education-human-sciences/coaching-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_57",
+      "filter_65"
+    ]
+  },
+  "153": {
+    "id": "153",
+    "name": "Education Studies Minor",
+    "url": "/undergraduate/education-human-sciences/education-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_57",
+      "filter_58",
+      "filter_64",
+      "filter_65"
+    ]
+  },
+  "154": {
+    "id": "154",
+    "name": "Educational Psychology Minor",
+    "url": "/undergraduate/education-human-sciences/educational-psychology-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_50",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_64",
+      "filter_65"
+    ]
+  },
+  "156": {
+    "id": "156",
+    "name": "Agricultural Engineering",
+    "url": "/undergraduate/engineering/agricultural/",
+    "filters": [
+      "filter_19",
+      "filter_32",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "157": {
+    "id": "157",
+    "name": "Architectural Engineering (Omaha)",
+    "url": "/undergraduate/engineering/architectural/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_63"
+    ]
+  },
+  "158": {
+    "id": "158",
+    "name": "Biological Systems Engineering",
+    "url": "/undergraduate/engineering/biological-systems/",
+    "filters": [
+      "filter_19",
+      "filter_32",
+      "filter_52",
+      "filter_53",
+      "filter_57",
+      "filter_59",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "159": {
+    "id": "159",
+    "name": "Chemical Engineering",
+    "url": "/undergraduate/engineering/chemical/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_32",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "160": {
+    "id": "160",
+    "name": "Civil Engineering",
+    "url": "/undergraduate/engineering/civil/",
+    "filters": [
+      "filter_19",
+      "filter_32",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "162": {
+    "id": "162",
+    "name": "Construction Engineering",
+    "url": "/undergraduate/engineering/construction/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "163": {
+    "id": "163",
+    "name": "Construction Management",
+    "url": "/undergraduate/engineering/construction-management/",
+    "filters": [
+      "filter_24",
+      "filter_32",
+      "filter_49",
+      "filter_51",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_68",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "164": {
+    "id": "164",
+    "name": "Electrical Engineering",
+    "url": "/undergraduate/engineering/electrical/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_61",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "166": {
+    "id": "166",
+    "name": "Mechanical Engineering",
+    "url": "/undergraduate/engineering/mechanical/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "167": {
+    "id": "167",
+    "name": "Software Engineering",
+    "url": "/undergraduate/engineering/software/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_61",
+      "filter_63",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "168": {
+    "id": "168",
+    "name": "Computer Engineering ",
+    "url": "/undergraduate/engineering/computer/",
+    "filters": [
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_61",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "169": {
+    "id": "169",
+    "name": "Biomedical Engineering Minor",
+    "url": "/undergraduate/engineering/biomedical-minor/",
+    "filters": [
+      "filter_20",
+      "filter_25",
+      "filter_32",
+      "filter_57",
+      "filter_58",
+      "filter_59"
+    ]
+  },
+  "172": {
+    "id": "172",
+    "name": "Engineering Leadership Minor",
+    "url": "/undergraduate/engineering/leadership-minor/",
+    "filters": [
+      "filter_25",
+      "filter_32",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_58"
+    ]
+  },
+  "173": {
+    "id": "173",
+    "name": "Engineering Mechanics Minor",
+    "url": "/undergraduate/engineering/mechanics-minor/",
+    "filters": [
+      "filter_25",
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_61",
+      "filter_63"
+    ]
+  },
+  "174": {
+    "id": "174",
+    "name": "International Engineering Minor",
+    "url": "/undergraduate/engineering/international-minor/",
+    "filters": [
+      "filter_25",
+      "filter_32",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "180": {
+    "id": "180",
+    "name": "Robotics Engineering Minor",
+    "url": "/undergraduate/engineering/robotics-minor/",
+    "filters": [
+      "filter_25",
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_63"
+    ]
+  },
+  "181": {
+    "id": "181",
+    "name": "Art History and Criticism",
+    "url": "/undergraduate/fine-performing-arts/art-history/",
+    "filters": [
+      "filter_24",
+      "filter_34",
+      "filter_48",
+      "filter_50",
+      "filter_56",
+      "filter_65",
+      "filter_66",
+      "filter_69"
+    ]
+  },
+  "182": {
+    "id": "182",
+    "name": "Art",
+    "url": "/undergraduate/fine-performing-arts/art/",
+    "filters": [
+      "filter_24",
+      "filter_34",
+      "filter_48",
+      "filter_52",
+      "filter_60",
+      "filter_65",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "183": {
+    "id": "183",
+    "name": "Dance",
+    "url": "/undergraduate/fine-performing-arts/dance/",
+    "filters": [
+      "filter_24",
+      "filter_34",
+      "filter_48",
+      "filter_52",
+      "filter_57",
+      "filter_65",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "184": {
+    "id": "184",
+    "name": "Interdisciplinary Studies",
+    "url": "/undergraduate/fine-performing-arts/interdisciplinary-studies/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_52"
+    ]
+  },
+  "185": {
+    "id": "185",
+    "name": "Music Education",
+    "url": "/undergraduate/fine-performing-arts/music-education/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_52",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "186": {
+    "id": "186",
+    "name": "Theatre–Design & Technical Production",
+    "url": "/undergraduate/fine-performing-arts/theatre-design-technical-production/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "190": {
+    "id": "190",
+    "name": "Music Technology Minor",
+    "url": "/undergraduate/fine-performing-arts/music-technology-minor/",
+    "filters": [
+      "filter_25",
+      "filter_34",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_62"
+    ]
+  },
+  "192": {
+    "id": "192",
+    "name": "Music",
+    "url": "/undergraduate/fine-performing-arts/music/",
+    "filters": [
+      "filter_24",
+      "filter_34",
+      "filter_48",
+      "filter_52",
+      "filter_56",
+      "filter_65",
+      "filter_66",
+      "filter_70"
+    ]
+  },
+  "193": {
+    "id": "193",
+    "name": "Advertising & Public Relations",
+    "url": "/undergraduate/journalism-mass-communications/advertising-public-relations/",
+    "filters": [
+      "filter_24",
+      "filter_38",
+      "filter_49",
+      "filter_50",
+      "filter_52",
+      "filter_58",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "194": {
+    "id": "194",
+    "name": "Broadcasting",
+    "url": "/undergraduate/journalism-mass-communications/broadcasting/",
+    "filters": [
+      "filter_24",
+      "filter_38",
+      "filter_50",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "195": {
+    "id": "195",
+    "name": "Journalism",
+    "url": "/undergraduate/journalism-mass-communications/journalism/",
+    "filters": [
+      "filter_38",
+      "filter_50",
+      "filter_54",
+      "filter_61",
+      "filter_62",
+      "filter_64",
+      "filter_66",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "196": {
+    "id": "196",
+    "name": "Pre-Health (Non-Degree)",
+    "url": "/undergraduate/exploratory-pre-professional-advising-center/pre-health/",
+    "filters": [
+      "filter_33",
+      "filter_57",
+      "filter_58",
+      "filter_59"
+    ]
+  },
+  "197": {
+    "id": "197",
+    "name": "Pre-Law (Non-Degree)",
+    "url": "/undergraduate/exploratory-pre-professional-advising-center/pre-law/",
+    "filters": [
+      "filter_33",
+      "filter_50",
+      "filter_54",
+      "filter_64"
+    ]
+  },
+  "198": {
+    "id": "198",
+    "name": "Undeclared (Non-Degree)",
+    "url": "/undergraduate/exploratory-pre-professional-advising-center/undeclared/",
+    "filters": [
+      "filter_33"
+    ]
+  },
+  "199": {
+    "id": "199",
+    "name": "Criminology & Criminal Justice",
+    "url": "/undergraduate/public-affairs-community-service/criminology-criminal-justice/",
+    "filters": [
+      "filter_24",
+      "filter_43",
+      "filter_54",
+      "filter_55",
+      "filter_58",
+      "filter_68",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "200": {
+    "id": "200",
+    "name": "Gerontology Minor & Gerontology Certificate",
+    "url": "/undergraduate/public-affairs-community-service/gerontology-minor/",
+    "filters": [
+      "filter_25",
+      "filter_43",
+      "filter_49",
+      "filter_52",
+      "filter_55",
+      "filter_57",
+      "filter_58"
+    ]
+  },
+  "208": {
+    "id": "208",
+    "name": "Informatics Minor",
+    "url": "/undergraduate/arts-sciences/informatics-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_51",
+      "filter_52",
+      "filter_61"
+    ]
+  },
+  "215": {
+    "id": "215",
+    "name": "Graphic Design",
+    "url": "/undergraduate/fine-performing-arts/graphic-design/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_50",
+      "filter_51",
+      "filter_52",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "217": {
+    "id": "217",
+    "name": "Product Design Minor",
+    "url": "/undergraduate/architecture/product-design-minor/",
+    "filters": [
+      "filter_25",
+      "filter_27",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_58",
+      "filter_60"
+    ]
+  },
+  "218": {
+    "id": "218",
+    "name": "Accounting",
+    "url": "/undergraduate/business/accounting/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_51",
+      "filter_61",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "219": {
+    "id": "219",
+    "name": "Actuarial Science (Business)",
+    "url": "/undergraduate/business/actuarial-science/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_51",
+      "filter_61",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "220": {
+    "id": "220",
+    "name": "Agribusiness (Business)",
+    "url": "/undergraduate/business/agribusiness/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_29",
+      "filter_49",
+      "filter_53",
+      "filter_67",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "221": {
+    "id": "221",
+    "name": "Business Administration",
+    "url": "/undergraduate/business/business-administration/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_51",
+      "filter_58",
+      "filter_61",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "222": {
+    "id": "222",
+    "name": "Economics (Business)",
+    "url": "/undergraduate/business/economics/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_54",
+      "filter_58",
+      "filter_61",
+      "filter_64",
+      "filter_67",
+      "filter_68"
+    ]
+  },
+  "223": {
+    "id": "223",
+    "name": "Finance",
+    "url": "/undergraduate/business/finance/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_51",
+      "filter_58",
+      "filter_61",
+      "filter_67",
+      "filter_68"
+    ]
+  },
+  "224": {
+    "id": "224",
+    "name": "International Business",
+    "url": "/undergraduate/business/international-business/",
+    "filters": [
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_56",
+      "filter_58",
+      "filter_64",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "225": {
+    "id": "225",
+    "name": "Management",
+    "url": "/undergraduate/business/management/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_58",
+      "filter_60",
+      "filter_61",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "226": {
+    "id": "226",
+    "name": "Marketing",
+    "url": "/undergraduate/business/marketing/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_52",
+      "filter_58",
+      "filter_61",
+      "filter_66",
+      "filter_67",
+      "filter_68"
+    ]
+  },
+  "227": {
+    "id": "227",
+    "name": "Supply Chain Management",
+    "url": "/undergraduate/business/supply-chain-management/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_51",
+      "filter_58",
+      "filter_61",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "228": {
+    "id": "228",
+    "name": "Business Analytics Minor",
+    "url": "/undergraduate/business/business-analytics-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_49",
+      "filter_51",
+      "filter_58",
+      "filter_61"
+    ]
+  },
+  "229": {
+    "id": "229",
+    "name": "Entrepreneurship Minor",
+    "url": "/undergraduate/business/entrepreneurship-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_49",
+      "filter_51",
+      "filter_52",
+      "filter_58",
+      "filter_60"
+    ]
+  },
+  "230": {
+    "id": "230",
+    "name": "Global Leadership Minor",
+    "url": "/undergraduate/business/global-leadership-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_56",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "231": {
+    "id": "231",
+    "name": "Sports Media & Communication",
+    "url": "/undergraduate/journalism-mass-communications/sports-media-communication/",
+    "filters": [
+      "filter_38",
+      "filter_49",
+      "filter_50",
+      "filter_52",
+      "filter_58",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_69"
+    ]
+  },
+  "233": {
+    "id": "233",
+    "name": "Clifton Builders Management Minor",
+    "url": "/undergraduate/business/clifton-builders-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_58",
+      "filter_60",
+      "filter_61"
+    ]
+  },
+  "235": {
+    "id": "235",
+    "name": "Emerging Media Arts",
+    "url": "/undergraduate/fine-performing-arts/emerging-media-arts/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_62",
+      "filter_66",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "236": {
+    "id": "236",
+    "name": "Precision Agriculture Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/precision-agriculture-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_61"
+    ]
+  },
+  "237": {
+    "id": "237",
+    "name": "Urban Forestry Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/urban-forestry-minor/",
+    "filters": [
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_52",
+      "filter_53",
+      "filter_59",
+      "filter_63"
+    ]
+  },
+  "238": {
+    "id": "238",
+    "name": "Communication Sciences & Disorders",
+    "url": "/undergraduate/education-human-sciences/communication-sciences-disorders/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_51",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_67",
+      "filter_69",
+      "filter_71"
+    ]
+  },
+  "239": {
+    "id": "239",
+    "name": "Greek Minor",
+    "url": "/undergraduate/arts-sciences/greek-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "240": {
+    "id": "240",
+    "name": "Latin Minor",
+    "url": "/undergraduate/arts-sciences/latin-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "241": {
+    "id": "241",
+    "name": "Military Leadership Minor",
+    "url": "/undergraduate/business/military-leadership-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_50",
+      "filter_54",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "242": {
+    "id": "242",
+    "name": "Environmental Science",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/environmental-science/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_51",
+      "filter_53",
+      "filter_61",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "243": {
+    "id": "243",
+    "name": "Regional and Community Forestry",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/regional-community-forestry/",
+    "filters": [
+      "filter_20",
+      "filter_26",
+      "filter_52",
+      "filter_53",
+      "filter_59",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "245": {
+    "id": "245",
+    "name": "Grassland Systems",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/grassland-systems/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_59",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "246": {
+    "id": "246",
+    "name": "Environmental Education Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/environmental-education-minor/",
+    "filters": [
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_54",
+      "filter_59",
+      "filter_63"
+    ]
+  },
+  "247": {
+    "id": "247",
+    "name": "Racial Justice, Equity, & Inclusion Minor",
+    "url": "/undergraduate/arts-sciences/racial-justice-equity-inclusion-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_54"
+    ]
+  },
+  "248": {
+    "id": "248",
+    "name": "Computer Science",
+    "url": "/undergraduate/engineering/computer-science/",
+    "filters": [
+      "filter_24",
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_61",
+      "filter_67",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "250": {
+    "id": "250",
+    "name": "Software Development Minor",
+    "url": "/undergraduate/engineering/software-development-minor/",
+    "filters": [
+      "filter_25",
+      "filter_32",
+      "filter_51",
+      "filter_52",
+      "filter_61"
+    ]
+  },
+  "251": {
+    "id": "251",
+    "name": "Secondary Education: Chinese",
+    "url": "/undergraduate/education-human-sciences/chinese/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "252": {
+    "id": "252",
+    "name": "Medieval & Renaissance Studies Minor",
+    "url": "/undergraduate/arts-sciences/medieval-renaissance-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_48",
+      "filter_50",
+      "filter_56",
+      "filter_65"
+    ]
+  },
+  "253": {
+    "id": "253",
+    "name": "Arabic Studies Minor",
+    "url": "/undergraduate/arts-sciences/arabic-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_62"
+    ]
+  },
+  "254": {
+    "id": "254",
+    "name": "Czech Studies Minor",
+    "url": "/undergraduate/arts-sciences/czech-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_48",
+      "filter_53",
+      "filter_56",
+      "filter_62",
+      "filter_64"
+    ]
+  },
+  "255": {
+    "id": "255",
+    "name": "Japanese Studies Minor",
+    "url": "/undergraduate/arts-sciences/japanese-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_56",
+      "filter_62",
+      "filter_64"
+    ]
+  },
+  "257": {
+    "id": "257",
+    "name": "Business & Law",
+    "url": "/undergraduate/business/business-law/",
+    "filters": [
+      "filter_24",
+      "filter_29",
+      "filter_49",
+      "filter_50",
+      "filter_54",
+      "filter_64",
+      "filter_67",
+      "filter_68",
+      "filter_69"
+    ]
+  },
+  "258": {
+    "id": "258",
+    "name": "Environmental Engineering",
+    "url": "/undergraduate/engineering/environmental-engineering/",
+    "filters": [
+      "filter_24",
+      "filter_32",
+      "filter_52",
+      "filter_53",
+      "filter_59",
+      "filter_60",
+      "filter_63",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "259": {
+    "id": "259",
+    "name": "Acting",
+    "url": "/undergraduate/fine-performing-arts/acting/",
+    "filters": [
+      "filter_34",
+      "filter_48",
+      "filter_52",
+      "filter_56",
+      "filter_65",
+      "filter_66",
+      "filter_68"
+    ]
+  },
+  "260": {
+    "id": "260",
+    "name": "Statistics & Data Analytics",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/statistics-data-analytics/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_51",
+      "filter_53",
+      "filter_59",
+      "filter_61",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "261": {
+    "id": "261",
+    "name": "Plant & Landscape Systems",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/plant-landscape-systems/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_52",
+      "filter_59",
+      "filter_66",
+      "filter_69",
+      "filter_70"
+    ]
+  },
+  "262": {
+    "id": "262",
+    "name": "Plant Pathology Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/plant-pathology-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_57",
+      "filter_59"
+    ]
+  },
+  "263": {
+    "id": "263",
+    "name": "Theatre",
+    "url": "/undergraduate/fine-performing-arts/theatre/",
+    "filters": [
+      "filter_24",
+      "filter_34",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_60",
+      "filter_66",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "264": {
+    "id": "264",
+    "name": "Agricultural Leadership, Education and Communication",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/agricultural-leadership-education-communication/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_50",
+      "filter_58",
+      "filter_65",
+      "filter_68",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "266": {
+    "id": "266",
+    "name": "Latinx and Latin American Studies Minor",
+    "url": "/undergraduate/arts-sciences/latinx-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "267": {
+    "id": "267",
+    "name": "Indigenous Studies Minor",
+    "url": "/undergraduate/arts-sciences/indigenous-studies-minor/",
+    "filters": [
+      "filter_25",
+      "filter_28",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_64"
+    ]
+  },
+  "268": {
+    "id": "268",
+    "name": "Agricultural Systems Technology",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/agricultural-systems-technology/",
+    "filters": [
+      "filter_19",
+      "filter_24",
+      "filter_26",
+      "filter_49",
+      "filter_51",
+      "filter_53",
+      "filter_60",
+      "filter_67",
+      "filter_68",
+      "filter_70"
+    ]
+  },
+  "269": {
+    "id": "269",
+    "name": "Special Education (7-12)",
+    "url": "/undergraduate/education-human-sciences/special-7-12/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_55",
+      "filter_57",
+      "filter_58",
+      "filter_65",
+      "filter_67",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "270": {
+    "id": "270",
+    "name": "Data Science (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/data-science/",
+    "filters": [
+      "filter_26",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "272": {
+    "id": "272",
+    "name": "Data Science (CAS)",
+    "url": "/undergraduate/arts-sciences/data-science/",
+    "filters": [
+      "filter_28",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "273": {
+    "id": "273",
+    "name": "Special Education (K-6)",
+    "url": "/undergraduate/education-human-sciences/special-k-6/",
+    "filters": [
+      "filter_31"
+    ]
+  },
+  "274": {
+    "id": "274",
+    "name": "Positive Psychology and Wellbeing Minor",
+    "url": "/undergraduate/education-human-sciences/positive-psychology-and-wellbeing-minor/",
+    "filters": [
+      "filter_25",
+      "filter_31",
+      "filter_55",
+      "filter_57",
+      "filter_58"
+    ]
+  },
+  "275": {
+    "id": "275",
+    "name": "Data Science (ENGR)",
+    "url": "/undergraduate/engineering/data-science/",
+    "filters": [
+      "filter_32",
+      "filter_67",
+      "filter_69"
+    ]
+  },
+  "276": {
+    "id": "276",
+    "name": "Remote Sensing in Agriculture and Natural Resources Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/remote-sensing-minor/",
+    "filters": [
+      "filter_19",
+      "filter_25",
+      "filter_26",
+      "filter_51",
+      "filter_53",
+      "filter_61"
+    ]
+  },
+  "277": {
+    "id": "277",
+    "name": "Digital Agriculture Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/digital-agriculture-minor/",
+    "filters": [
+      "filter_19",
+      "filter_25",
+      "filter_26",
+      "filter_51",
+      "filter_53",
+      "filter_61"
+    ]
+  },
+  "278": {
+    "id": "278",
+    "name": "International Trade Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/international-trade-minor/",
+    "filters": [
+      "filter_19",
+      "filter_25",
+      "filter_26",
+      "filter_49",
+      "filter_53",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "279": {
+    "id": "279",
+    "name": "Victimology and Victim Services Minor",
+    "url": "/undergraduate/public-affairs-community-service/victimology-minor/",
+    "filters": [
+      "filter_25",
+      "filter_43",
+      "filter_54",
+      "filter_55",
+      "filter_58"
+    ]
+  },
+  "280": {
+    "id": "280",
+    "name": "Agronomy",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/agronomy/",
+    "filters": [
+      "filter_24",
+      "filter_26"
+    ]
+  },
+  "281": {
+    "id": "281",
+    "name": "Food Technology for Companion Animals Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/food-technology-companion-animals-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_57",
+      "filter_61",
+      "filter_63"
+    ]
+  },
+  "282": {
+    "id": "282",
+    "name": "Environmental & Sustainability Studies (CASNR)",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/environmental-sustainability-studies/",
+    "filters": [
+      "filter_20",
+      "filter_24",
+      "filter_26",
+      "filter_53",
+      "filter_54",
+      "filter_58",
+      "filter_59",
+      "filter_63",
+      "filter_64",
+      "filter_69",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "283": {
+    "id": "283",
+    "name": "Environmental & Sustainability Studies (CAS)",
+    "url": "/undergraduate/arts-sciences/environmental-sustainability-studies/",
+    "filters": [
+      "filter_20",
+      "filter_24",
+      "filter_28",
+      "filter_53",
+      "filter_54",
+      "filter_58",
+      "filter_59",
+      "filter_63",
+      "filter_64",
+      "filter_69",
+      "filter_70",
+      "filter_71"
+    ]
+  },
+  "284": {
+    "id": "284",
+    "name": "Business Minor for Raikes",
+    "url": "/undergraduate/business/business-minor/",
+    "filters": [
+      "filter_25",
+      "filter_29",
+      "filter_49"
+    ]
+  },
+  "285": {
+    "id": "285",
+    "name": "Public Policy & Analysis Certificate",
+    "url": "/undergraduate/arts-sciences/public-policy-analysis/",
+    "filters": [
+      "filter_19",
+      "filter_28",
+      "filter_53",
+      "filter_62",
+      "filter_64"
+    ]
+  },
+  "286": {
+    "id": "286",
+    "name": "Ecological Engineering Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/ecological-engineering-minor/",
+    "filters": [
+      "filter_25",
+      "filter_26"
+    ]
+  },
+  "287": {
+    "id": "287",
+    "name": "Plant Protection Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/plant-protection-minor/",
+    "filters": [
+      "filter_19",
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_53",
+      "filter_63"
+    ]
+  },
+  "288": {
+    "id": "288",
+    "name": "Zoo Animal Science Minor",
+    "url": "/undergraduate/agricultural-sciences-natural-resources/zoo-animal-science-minor/",
+    "filters": [
+      "filter_20",
+      "filter_25",
+      "filter_26",
+      "filter_59"
+    ]
+  },
+  "289": {
+    "id": "289",
+    "name": "Social Entrepreneurship Certificate",
+    "url": "/undergraduate/arts-sciences/social-entrepreneurship/",
+    "filters": [
+      "filter_28",
+      "filter_53",
+      "filter_54",
+      "filter_55",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "290": {
+    "id": "290",
+    "name": "Secondary Education: Arabic",
+    "url": "/undergraduate/education-human-sciences/arabic/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "291": {
+    "id": "291",
+    "name": "Secondary Education: Japanese",
+    "url": "/undergraduate/education-human-sciences/japanese/",
+    "filters": [
+      "filter_31",
+      "filter_50",
+      "filter_54",
+      "filter_56",
+      "filter_58",
+      "filter_65",
+      "filter_66",
+      "filter_68",
+      "filter_71"
+    ]
+  },
+  "292": {
+    "id": "292",
+    "name": "Aerospace Studies Minor",
+    "url": "/undergraduate/academic-policies-other-units/aerospace-studies-air-force-rotc/",
+    "filters": [
+      "filter_25",
+      "filter_42",
+      "filter_49",
+      "filter_56",
+      "filter_64"
+    ]
+  },
+  "293": {
+    "id": "293",
+    "name": "Architectural Studies",
+    "url": "/undergraduate/architecture/architectural-studies/",
+    "filters": [
+      "filter_24",
+      "filter_27",
+      "filter_48",
+      "filter_51",
+      "filter_52",
+      "filter_53",
+      "filter_60",
+      "filter_66",
+      "filter_69",
+      "filter_70"
+    ]
+  }
+}
