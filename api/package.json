@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon",
-    "run": "node index.js"
+    "start": "node index.js"
   },
   "author": "USS Watson",
   "license": "GPL-3.0",
