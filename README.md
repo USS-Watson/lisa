@@ -14,11 +14,10 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
-4.
-5.
+1. Alex Schwarz || aschwarz9@huskers.unl.edu || curtainman
+2. Anton Angeletti || aangeletti3@huskers.unl.edu || anton-3
+3. Blaine Traudt || btraudt3@huskers.unl.edu || blaine-t
+4. Louis Quattrocchi || lquattrocchi2@huskers.unl.edu || WalterOfNone
 
 <br /><br />
 
@@ -38,8 +37,8 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 - [ ]  Pinata AI Challenge
 - [ ]  Pinata Enterprise Challenge
 - [ ]  AWS Bedrock Challenge
-- [ ]  Red Hat | Intel AI Challenge
-- [ ]  Zoom Challenge
+- [x]  Red Hat | Intel AI Challenge
+- [x]  Zoom Challenge
 - [ ]  USDA Challenge
 - [ ]  brAIn Rot Challenge
 
