@@ -10,7 +10,11 @@ const MicButton = (props: {
     const { client, isAudioMuted, setIsAudioMuted } = props;
     const onMicrophoneClick = async () => {
         const mediaStream = client.current.getMediaStream();
-        isAudioMuted ? await mediaStream?.unmuteAudio() : await mediaStream?.muteAudio();
+        if (isAudioMuted) {
+            await mediaStream?.unmuteAudio();
+        } else {
+            await mediaStream?.muteAudio();
+        }
         setIsAudioMuted(client.current.getCurrentUserInfo().muted ?? true);
     };
     return (
