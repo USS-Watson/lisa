@@ -26,4 +26,4 @@ async def complete():
         allOutputs.append(tokened)
     return json.dumps(allOutputs)
  
-api.run()
+api.run(host='0.0.0.0')
