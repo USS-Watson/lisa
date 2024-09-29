@@ -34,16 +34,16 @@ const Videocall = (props: { slug: string; JWT: string }) => {
         await client.current.join(session, jwt, userName).catch((e) => {
             console.log(e);
         });
-        setInSession(true);
         const mediaStream = client.current.getMediaStream();
         await mediaStream.startAudio();
-        setIsAudioMuted(mediaStream.isAudioMuted());
         await mediaStream.startVideo();
-        setIsVideoMuted(!mediaStream.isCapturingVideo());
         await renderVideo({
             action: "Start",
             userId: client.current.getCurrentUserInfo().userId,
         });
+        setInSession(true);
+        setIsVideoMuted(!mediaStream.isCapturingVideo());
+        setIsAudioMuted(mediaStream.isAudioMuted());
     };
 
     const renderVideo = async (event: {
@@ -53,11 +53,7 @@ const Videocall = (props: { slug: string; JWT: string }) => {
         const mediaStream = client.current.getMediaStream();
         if (event.action === "Stop") {
             const element = await mediaStream.detachVideo(event.userId);
-            if (Array.isArray(element)) {
-                element.forEach((el) => el.remove());
-            } else {
-                element.remove();
-            }
+            Array.isArray(element) ? element.forEach((el) => el.remove()) : element.remove();
         } else {
             const userVideo = await mediaStream.attachVideo(
                 event.userId,
