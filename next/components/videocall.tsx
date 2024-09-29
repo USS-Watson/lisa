@@ -53,7 +53,11 @@ const Videocall = (props: { slug: string; JWT: string }) => {
         const mediaStream = client.current.getMediaStream();
         if (event.action === "Stop") {
             const element = await mediaStream.detachVideo(event.userId);
-            Array.isArray(element) ? element.forEach((el) => el.remove()) : element.remove();
+            if (Array.isArray(element)) {
+                element.forEach((el) => el.remove());
+            } else {
+                element.remove();
+            }
         } else {
             const userVideo = await mediaStream.attachVideo(
                 event.userId,
