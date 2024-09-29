@@ -26,7 +26,7 @@ app.use(express.static('public/icons'))
 app.use(express.json())
 
 // Enable cors
-app.use(cors())
+// app.use(cors())
 
 // Global info
 app.locals.systemPromptSetting = 'default'
