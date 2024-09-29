@@ -77,6 +77,12 @@ router.post('/prompt', async (req, res) => {
   }
 })
 
+router.post('/clear', async () => {
+  app.locals.userMessages = []
+  app.locals.assistantMessages = []
+  res.sendStatus(200)
+})
+
 router.post('/settings', (req, res) => {
   const data = req.body
   if (data.systemPromptSetting) {

@@ -40,4 +40,7 @@ app.listen(port, () => {
   console.info('Express server listening on http://127.0.0.1:' + port)
 })
 
+app.locals.userMessages = []
+app.locals.assistantMessages = []
+
 export { app }
