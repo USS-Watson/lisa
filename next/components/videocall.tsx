@@ -34,16 +34,16 @@ const Videocall = (props: { slug: string; JWT: string }) => {
         await client.current.join(session, jwt, userName).catch((e) => {
             console.log(e);
         });
+        setInSession(true);
         const mediaStream = client.current.getMediaStream();
         await mediaStream.startAudio();
+        setIsAudioMuted(mediaStream.isAudioMuted());
         await mediaStream.startVideo();
+        setIsVideoMuted(!mediaStream.isCapturingVideo());
         await renderVideo({
             action: "Start",
             userId: client.current.getCurrentUserInfo().userId,
         });
-        setInSession(true);
-        setIsVideoMuted(!mediaStream.isCapturingVideo());
-        setIsAudioMuted(mediaStream.isAudioMuted());
     };
 
     const renderVideo = async (event: {
