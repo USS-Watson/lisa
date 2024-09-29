@@ -9,6 +9,8 @@ import { dirname, resolve } from 'path'
 
 import { KJUR } from 'jsrsasign'
 
+import { upload } from '../lib/uploads.js'
+
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
@@ -84,6 +86,10 @@ router.post('/settings', (req, res) => {
     res.sendStatus(418)
   }
 })
+
+router.post("/documentUpload", upload.single("file"), (req, res) => {
+  return res.json({ message: req.file.location });
+});
 
 export const toStringArray = (value) =>
   Array.isArray(value)
