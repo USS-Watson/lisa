@@ -70,16 +70,17 @@ router.post('/prompt', async (req, res) => {
   const data = req.body
   if (data.prompt) {
     const text = await getLlmResponse(data.prompt)
-    await textToSpeech(text)
-    res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
+    res.send(text)
+    // await textToSpeech(text)
+    // res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
   } else {
     res.sendStatus(418)
   }
 })
 
-router.post('/clear', async () => {
+router.post('/clear', async (req, res) => {
   app.locals.userMessages = []
-  app.locals.assistantMessages = []
+  app.locals.lisaMessages = []
   res.sendStatus(200)
 })
 

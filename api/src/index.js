@@ -41,6 +41,6 @@ app.listen(port, () => {
 })
 
 app.locals.userMessages = []
-app.locals.assistantMessages = []
+app.locals.lisaMessages = []
 
 export { app }
