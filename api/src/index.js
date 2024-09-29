@@ -1,4 +1,6 @@
 import express from 'express'
+import cors from 'cors'
+
 const app = express()
 // LISA in T9 dialing
 const port = 5472
@@ -22,6 +24,9 @@ app.use(express.static('public/icons'))
 
 // JSON support
 app.use(express.json())
+
+// Enable cors
+app.use(cors())
 
 // Global info
 app.locals.systemPromptSetting = 'default'
