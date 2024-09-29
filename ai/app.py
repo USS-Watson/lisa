@@ -18,7 +18,7 @@ async def complete():
     data = request.get_json()
     request_prompt = data.get("prompt")
     inputs = tokenizer(request_prompt, return_tensors="pt")
-    outputs = model.generate(**inputs, max_new_tokens=250)
+    outputs = model.generate(**inputs, max_new_tokens=130)
     allOutputs = []
     for o in outputs:
         tokened = tokenizer.decode(o, skip_special_tokens=True)
