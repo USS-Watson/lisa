@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "aws-sdk": "^2.1691.0",
+    "connect-busboy": "^1.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "elevenlabs-js": "^1.2.6",

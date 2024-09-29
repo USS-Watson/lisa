@@ -10,18 +10,22 @@ import { dirname, resolve } from 'path'
 import { KJUR } from 'jsrsasign'
 
 import { upload } from '../lib/uploads.js'
+import busboy from 'connect-busboy'
+import { getSttResponse } from '../lib/stt.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 const router = Router()
 
+router.use(busboy())
+
 const coerceRequestBody = (body) => ({
   ...body,
   ...['role', 'expirationSeconds', 'cloudRecordingOption', 'cloudRecordingElection', 'audioCompatibleMode'].reduce(
     (acc, cur) => ({ ...acc, [cur]: typeof body[cur] === 'string' ? parseInt(body[cur]) : body[cur] }),
-    {}
-  )
+    {},
+  ),
 })
 
 const joinGeoRegions = (geoRegions) => toStringArray(geoRegions)?.join(',')
@@ -38,7 +42,7 @@ router.post('/jwt', (req, res) => {
     geoRegions,
     cloudRecordingOption,
     cloudRecordingElection,
-    audioCompatibleMode
+    audioCompatibleMode,
   } = requestBody
 
   const iat = Math.floor(Date.now() / 1000)
@@ -57,7 +61,7 @@ router.post('/jwt', (req, res) => {
     geo_regions: joinGeoRegions(geoRegions),
     cloud_recording_option: cloudRecordingOption,
     cloud_recording_election: cloudRecordingElection,
-    audio_compatible_mode: audioCompatibleMode
+    audio_compatible_mode: audioCompatibleMode,
   }
 
   const sHeader = JSON.stringify(oHeader)
@@ -78,6 +82,16 @@ router.post('/prompt', async (req, res) => {
   }
 })
 
+router.post('/whisper', async (req, res) => {
+  req.pipe(req.busboy)
+  req.busboy.on('file', async function (fieldname, file, filename) {
+    const userText = await getSttResponse(file)
+    const text = await getLlmResponse(userText)
+    await textToSpeech(text)
+    res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
+  })
+})
+
 router.post('/clear', async (req, res) => {
   app.locals.userMessages = []
   app.locals.lisaMessages = []
@@ -94,9 +108,9 @@ router.post('/settings', (req, res) => {
   }
 })
 
-router.post("/documentUpload", upload.single("file"), (req, res) => {
-  return res.json({ message: req.file.location });
-});
+router.post('/documentUpload', upload.single('file'), (req, res) => {
+  return res.json({ message: req.file.location })
+})
 
 export const toStringArray = (value) =>
   Array.isArray(value)
