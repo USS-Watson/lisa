@@ -98,4 +98,4 @@ async def audio():
     return jsonify({"message": "file transcribed successfully", "text": result["text"]}), 200
 
 print('running flask API...')
-api.run()
+api.run(host='0.0.0.0')
