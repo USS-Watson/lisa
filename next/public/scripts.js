@@ -5,7 +5,7 @@ var authEndpoint = 'https://endpoint-test.curtain.wtf'
 var config = {
     videoSDKJWT: '',
     sessionName: 'test',
-    userName: 'JavaScript',
+    userName: 'User',
     sessionPasscode: '123',
     features: ['preview', 'video', 'audio', 'settings', 'users', 'chat', 'share'],
     options: { init: {}, audio: {}, video: {}, share: {}},
