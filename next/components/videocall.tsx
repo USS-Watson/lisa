@@ -26,7 +26,7 @@ const Videocall = (props: { slug: string; JWT: string }) => {
     const videoContainerRef = useRef<HTMLDivElement>(null);
 
     const joinSession = async () => {
-        await client.current.init("en-US", "Global", { patchJsMedia: true });
+        await client.current.init("en-US", "Global", { patchJsMedia: true, enforceMultipleVideos:true });
         client.current.on(
             "peer-video-state-change",
             (payload) => void renderVideo(payload)
