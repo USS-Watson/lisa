@@ -13,7 +13,8 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "elevenlabs-js": "^1.2.6",
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "jsrsasign": "^11.1.0"
   },
   "devDependencies": {
     "eslint": "^9.11.1",
