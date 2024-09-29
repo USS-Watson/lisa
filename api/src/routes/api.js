@@ -84,7 +84,7 @@ router.post('/prompt', async (req, res) => {
 })
 
 router.post('/whisper', async (req, res) => {
-  const filePath = 'fuck.wav'
+  const filePath = 'thing.wav'
   const writeStream = fs.createWriteStream(filePath)
   req.pipe(writeStream)
   writeStream.on('finish', async () => {
