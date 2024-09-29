@@ -24,6 +24,8 @@ async def complete():
         tokened = tokenizer.decode(o, skip_special_tokens=True)
         print(tokened)
         allOutputs.append(tokened)
-    return json.dumps(allOutputs)
+    response = json.dumps(allOutputs)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
  
 api.run(host='0.0.0.0')
