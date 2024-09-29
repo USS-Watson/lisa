@@ -74,9 +74,9 @@ router.post('/prompt', async (req, res) => {
   const data = req.body
   if (data.prompt) {
     const text = await getLlmResponse(data.prompt)
-    res.send(text)
-    // await textToSpeech(text)
-    // res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
+    // res.send(text)
+    await textToSpeech(text)
+    res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
   } else {
     res.sendStatus(418)
   }
