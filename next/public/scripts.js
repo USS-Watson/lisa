@@ -7,7 +7,7 @@ var config = {
     sessionName: 'test',
     userName: 'User',
     sessionPasscode: '123',
-    features: ['preview', 'video', 'audio', 'settings', 'users', 'chat', 'share'],
+    features: ['preview', 'video', 'audio', 'settings'],
     options: { init: {}, audio: {}, video: {}, share: {}},
     virtualBackground: {
        allowVirtualBackground: true,
@@ -53,6 +53,5 @@ function joinSession() {
 var sessionClosed = (() => {
     console.log('session closed')
     uitoolkit.closeSession(sessionContainer)
-
-    document.getElementById('join-flow').style.display = 'block'
+    window.location.href = "/"
 })

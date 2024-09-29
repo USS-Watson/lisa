@@ -93,7 +93,7 @@ export default function Component() {
             </div>
           </CardContent>
           <CardFooter>
-            <Button type="submit" className="w-full bg-primary text-primary-foreground hover:bg-primary/90">Submit</Button>
+            <Button type="submit" className="w-full bg-primary text-primary-foreground hover:bg-primary/90">Join Virtual Meeting</Button>
           </CardFooter>
         </form>
       </Card>
