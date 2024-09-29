@@ -18,14 +18,12 @@ async def complete():
     data = request.get_json()
     request_prompt = data.get("prompt")
     inputs = tokenizer(request_prompt, return_tensors="pt")
-    outputs = model.generate(**inputs, max_new_tokens=150)
+    outputs = model.generate(**inputs, max_new_tokens=250)
     allOutputs = []
     for o in outputs:
         tokened = tokenizer.decode(o, skip_special_tokens=True)
         print(tokened)
         allOutputs.append(tokened)
-    response = json.dumps(allOutputs)
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    return response
+    return json.dumps(allOutputs)
  
 api.run(host='0.0.0.0')
