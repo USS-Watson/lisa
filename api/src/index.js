@@ -27,7 +27,7 @@ app.use(express.json())
 
 // Allowed hosts
 let corsOptions = {
-   origin : ['https://frontend-project3.apps.rosa.rosa-t8j8w.ft2c.p3.openshiftapps.com'],
+   origin : ['*'],
 }
 
 // Allow hosts
