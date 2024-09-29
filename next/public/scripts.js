@@ -1,7 +1,7 @@
 import uitoolkit from './@zoom/videosdk-ui-toolkit/index.js'
 
 var sessionContainer = document.getElementById('sessionContainer')
-var authEndpoint = 'https://api-project3.apps.rosa.rosa-t8j8w.ft2c.p3.openshiftapps.com/jwt'
+var authEndpoint = 'https://endpoint-test.curtain.wtf'
 var config = {
     videoSDKJWT: '',
     sessionName: 'test',
