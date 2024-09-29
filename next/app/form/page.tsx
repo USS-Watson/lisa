@@ -28,15 +28,25 @@ export default function Component() {
         method: 'POST',
         body: formData,
       });
-
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-
-      alert('Form submitted successfully!');
+      console.log('Form submitted:', response);
     } catch (error) {
-      console.error('Error submitting form:', error);
-      alert('There was an error submitting your form.');
+      console.log('Error submitting form:', error);
+    }
+
+    //send another POST for settings
+    try {
+      const settingsResponse = await fetch('https://api-project3.apps.rosa.rosa-t8j8w.ft2c.p3.openshiftapps.com/settings', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          systemPromptSetting: selectedOption,
+        }),
+      });
+      console.log('Settings submitted:', settingsResponse);
+    } catch (error) {
+      console.log('Error submitting settings:', error);
     }
 
     //redirect to meeting
@@ -64,9 +74,9 @@ export default function Component() {
                   <SelectValue placeholder="Select a topic" />
                 </SelectTrigger>
                 <SelectContent className="bg-white border-gray-300">
-                  <SelectItem value="register">I would like to register for classes</SelectItem>
-                  <SelectItem value="swap">I would like to swap classes</SelectItem>
-                  <SelectItem value="chat">I would like to chat</SelectItem>
+                  <SelectItem value="I would like to register for classes">I would like to register for classes</SelectItem>
+                  <SelectItem value="I would like to swap classes">I would like to swap classes</SelectItem>
+                  <SelectItem value="I would like to chat">I would like to chat</SelectItem>
                 </SelectContent>
               </Select>
             </div>
