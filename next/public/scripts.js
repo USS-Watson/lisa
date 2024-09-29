@@ -7,7 +7,7 @@ var config = {
     sessionName: 'test',
     userName: 'User',
     sessionPasscode: '123',
-    features: ['preview', 'video', 'audio', 'settings'],
+    features: ['preview', 'video', 'audio', 'settings', 'share'],
     options: { init: {}, audio: {}, video: {}, share: {}},
     virtualBackground: {
        allowVirtualBackground: true,
