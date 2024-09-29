@@ -12,6 +12,7 @@ import { KJUR } from 'jsrsasign'
 import { upload } from '../lib/uploads.js'
 import busboy from 'connect-busboy'
 import { getSttResponse } from '../lib/stt.js'
+import fs from 'fs';
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -83,13 +84,29 @@ router.post('/prompt', async (req, res) => {
 })
 
 router.post('/whisper', async (req, res) => {
-  req.pipe(req.busboy)
-  req.busboy.on('file', async function (fieldname, file, filename) {
-    const userText = await getSttResponse(file)
+  const filePath = 'fuck.wav'
+  const writeStream = fs.createWriteStream(filePath)
+  req.pipe(writeStream)
+  writeStream.on('finish', async () => {
+    const userText = await getSttResponse(filePath)
     const text = await getLlmResponse(userText)
     await textToSpeech(text)
     res.sendFile(resolve(__dirname + '/../../prompt.mp3'))
-  })
+  });
+
+  writeStream.on('error', (err) => {
+    console.error('Error writing file:', err);
+    res.status(500).send('Failed to save the file.');
+  });
+
+  req.on('end', () => {
+    writeStream.end();
+  });
+
+  req.on('error', (err) => {
+    console.error('Error receiving data:', err);
+    res.status(500).send('Error receiving data.');
+  });
 })
 
 router.post('/clear', async (req, res) => {

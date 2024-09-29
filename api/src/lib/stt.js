@@ -1,15 +1,19 @@
 import 'dotenv/config'
+import FormData from 'form-data'
+import axios from 'axios'
+import fs from 'fs'
 
-async function getSttResponse(file) {
-  const response = await fetch(process.env.STT_ENDPOINT, {
-    method: 'POST',
+async function getSttResponse(filename) {
+  const form = new FormData()
+  form.append('file', fs.createReadStream(filename))
+
+  const response = await axios.post(process.env.STT_ENDPOINT, form, {
     headers: {
-      'Content-Type': 'audio/wav',
+      ...form.getHeaders(),
     },
-    body: file,
   })
-  const responseText = await response.text()
-  console.log(responseText)
+  const responseText = response.data.text
+  console.log('stt', responseText)
   return responseText
 }
 
