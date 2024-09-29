@@ -25,8 +25,13 @@ app.use(express.static('public/icons'))
 // JSON support
 app.use(express.json())
 
-// Enable cors
-// app.use(cors())
+// Allowed hosts
+let corsOptions = {
+   origin : ['https://frontend-project3.apps.rosa.rosa-t8j8w.ft2c.p3.openshiftapps.com'],
+}
+
+// Allow hosts
+app.use(cors(corsOptions))
 
 // Global info
 app.locals.systemPromptSetting = 'default'
