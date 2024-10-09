@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lisa Meeting</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+        <link rel="stylesheet" href="@zoom/videosdk-ui-toolkit/dist/videosdk-ui-toolkit.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body onload="getVideoSDKJWT()" style="background-color: rgb(17 24 39);"></body>
+        <main>
+            <div id="join-flow">
+                <p style="color: white;">Loading...</p>
+            </div>
+
+            <div id='sessionContainer'></div>
+        </main>
+        <script src="@zoom/videosdk-ui-toolkit/index.js" type="module"></script>
+        <script src="scripts.js" type="module"></script>
+    </body>
+    <style>
+
+        .class mdc-label {
+            color:  white;
+        }
+
+    </style>
+</html>
