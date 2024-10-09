@@ -1,0 +1,4 @@
+Flask[async]==3.0.3
+optimum[openvino,nncf]==1.22.0
+transformers==4.44.2
+optimum-intel==1.19.0

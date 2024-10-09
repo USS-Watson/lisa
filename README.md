@@ -23,10 +23,12 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 
 ## What is the name of your App?
+LISA
 
 <br /><br />
 ## What does your app do?
-*Describe in a paragraph or so*
+
+LISA stands for "Local Intelligent School Advisor". She's an AI college advisor, and she's not just a chatbot: she has a voice and a face, and you talk to her over a video call! Using Red Hat's OpenShift AI platform, user speech is transcribed into text and fed into an LLM that utilizes Intel AMX hardware acceleration. The response is then converted back into audio and spoken in an animation by Lisa herself, presented using the Zoom Video SDK. Her LLM is trained on webscraped data about college courses, giving you immediate responses and information about what courses you need to take. This project is the prototype of a whitelabel SaaS solution for universities that provides easy, quick college advising services to students. This is crucial as 24/7 access to academic advising provides instant support to students who [used to wait days to weeks](https://thedailycougar.com/2020/12/28/students-discouraged-by-academic-advising-wait-times/) for human advisors.
 
 <br /><br />
 
