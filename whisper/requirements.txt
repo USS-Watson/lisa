@@ -109,7 +109,7 @@ nvidia-cusparse-cu12==12.1.0.106
 nvidia-nccl-cu12==2.20.5
 nvidia-nvjitlink-cu12==12.6.68
 nvidia-nvtx-cu12==12.1.105
-onnx==1.16.2
+onnx==1.17.0
 openvino==2024.4.0
 openvino-telemetry==2024.1.0
 optimum==1.22.0
